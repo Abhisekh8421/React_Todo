@@ -20,6 +20,7 @@
     "react-router-dom": "6.17.0",
     "react-scripts": "5.0.1",
     "svgo": "^2.8.0",
+    "touch-cli": "^0.0.1",
     "uuid": "9.0.1"
   },
   "devDependencies": {
