@@ -58,7 +58,6 @@ We welcome contributions! Feel free to open issues, submit pull requests, or sha
 
 - React
 - CSS (for styling)
-- Real-Time Updates (utilizing [your-real-time-library])
 
 ## Connect with Us
 
